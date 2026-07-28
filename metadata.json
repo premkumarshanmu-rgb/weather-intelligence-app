@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Modern responsive weather intelligence app with Open-Meteo geocoding and forecast data, 7-day forecast cards, temperature charts, and smart activity recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
